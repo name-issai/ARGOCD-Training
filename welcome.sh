@@ -1,1 +1,1 @@
-echo "welcome to the argocd Pipeline training"
+echo "welcome to the argocd pipeline training day1"
